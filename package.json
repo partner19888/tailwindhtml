@@ -1,0 +1,36 @@
+{
+  "name": "tailwindhtml-flips",
+  "version": "0.0.0-development",
+  "description": "RTL plugin for tailwindcss. A Tailwind CSS plugin to easily flip elements RTL(right-to-left)",
+  "main": "lib/index.js",
+  "files": [
+    "lib/*.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lancer117/tailwindhtml-flips.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "rtl",
+    "flip",
+    "animation",
+    "css",
+    "react",
+    "npm",
+    "node",
+    "module"
+  ],
+  "author": "Rajeesh C V",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lancer117/tailwindhtml-flips/issues"
+  },
+  "homepage": "https://github.com/lancer117/tailwindhtml-flips#readme",
+  "dependencies": {
+    "lodash.flatmap": "^4.5.0"
+  }
+}
