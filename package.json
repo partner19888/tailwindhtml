@@ -1,7 +1,7 @@
 {
   "name": "tailwindhtml-flips",
   "version": "0.0.0-development",
-  "description": "RTL plugin for tailwindcss. A Tailwind CSS plugin to easily flip elements RTL(right-to-left)",
+  "description": "RTL plugin for tailwindcss. A Tailwind CSS plugin to easily flip elements RTL(right-to-left).",
   "main": "lib/index.js",
   "files": [
     "lib/*.js"
